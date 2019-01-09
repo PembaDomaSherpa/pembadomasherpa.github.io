@@ -410,7 +410,8 @@ input, select, textarea {
     }
     .grid-item2{
         flex-direction: row;
-        width:100%;
+        width:50%;
+        height: 50%;
         padding-left:0px;
         padding-right:7px;
     }
@@ -421,7 +422,8 @@ input, select, textarea {
         
     }
     .grid-item2 img {
-        width:100%;
+        width:98%;
+        height: 50%;
     padding-top:0;
     }
     .grid-item2 .right{
