@@ -1,0 +1,19 @@
+.topnav ul {
+    float: right;
+}
+
+.nav-top {
+    float: right;
+}
+
+.topnav li {
+    float: left;
+}
+
+.topnav ul li a {
+    padding: 14px 30px;
+}
+
+nav .nav-bottom {
+    padding-left: 60%;
+}

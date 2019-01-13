@@ -1,0 +1,82 @@
+nav a {
+    color: black;
+}
+
+.topnav ul {
+    float: right;
+}
+
+.topnav li {
+    float: left;
+}
+
+.topnav ul li a {
+    padding: 14px 14px;
+}
+
+.topnav ul li a,
+.dropdown .dropbtn {
+    padding: 14px 10px;
+    font-size: 12px
+}
+
+nav .nav-bottom {
+    padding-left: 60%;
+}
+
+.main-screen {
+    flex-direction: column;
+}
+
+.grid-item1 img {
+    width: 100%;
+}
+
+.grid-item2 img {
+    width: 50%;
+    padding-top: 0;
+}
+
+.grid-item2 img:first-child {
+    padding-right: 10px;
+}
+
+.grid-item1 {
+    width: 100%;
+    padding-left: 0px;
+    padding-bottom: 7px;
+}
+
+.grid-item2 {
+    flex-direction: row;
+    width: 100%;
+    padding-left: 0px;
+}
+
+.grid-item2 img:first-child {
+    padding-right: 10px;
+}
+
+.package-list {
+    width: 100%;
+}
+
+.package-list__item {
+    width: 41%;
+}
+
+.package-list__item img {
+    width: 100%;
+}
+
+.package-list-details {
+    width: 100%;
+}
+
+.help-list a {
+    font-size: 16px;
+}
+
+.fa-book-open::before {
+    font-size: 20px;
+}

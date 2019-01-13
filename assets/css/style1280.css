@@ -1,0 +1,60 @@
+.topnav ul {
+    float: right;
+}
+
+.topnav li {
+    float: left;
+}
+
+.topnav ul li a {
+    padding: 14px 14px;
+}
+
+nav .nav-bottom {
+    padding-left: 60%;
+}
+
+.main-screen {
+    flex-direction: column;
+}
+
+.grid-item1 img {
+    width: 100%;
+}
+
+.grid-item2 img {
+    width: 50%;
+    padding-top: 0;
+}
+
+.grid-item2 img:first-child {
+    padding-right: 10px;
+}
+
+.grid-item1 {
+    width: 100%;
+    padding-left: 0px;
+    padding-bottom: 7px;
+}
+
+.grid-item2 {
+    flex-direction: row;
+    width: 100%;
+    padding-left: 0px;
+}
+
+.grid-item2 img:first-child {
+    padding-right: 10px;
+}
+
+.help-list a {
+    font-size: 20px;
+}
+
+.item .help a {
+    font-size: 20px;
+}
+
+.fa-book-open::before {
+    font-size: 22px;
+}
