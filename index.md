@@ -7,8 +7,8 @@
 </head>
 
 <body>
-    <marquee><h1>The site is under construction. Will be live soon.</h1></marquee>
-    <p><strong>-Pemba Doma Sherpa</strong></p>
+    <h1>The site is under construction. Will be live soon.</h1>
+    <p style="text-align:right;"><strong>-Pemba Doma Sherpa</strong></p>
 </body>
 
 </html>
