@@ -3,7 +3,7 @@ backend:
   repo: PembaDomaSherpa/pembadomasherpa.github.io
   branch: master
   base_url: https://pembadoma.com.np
-  site_domain: brave-darwin-1a016c.netlify.com
+  site_domain: https://pembadoma.com.np
 
 media_folder: "images/uploads"
 
