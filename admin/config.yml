@@ -1,7 +1,9 @@
 backend:
-  name: github
+  name: git-gateway
   repo: https://github.com/PembaDomaSherpa/pembadomasherpa.github.io
   branch: master
+
+publish_mode: editorial_workflow
 
 media_folder: "images/uploads"
 
