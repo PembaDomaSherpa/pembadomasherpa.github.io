@@ -2,7 +2,7 @@ backend:
   name: github
   repo: PembaDomaSherpa/pembadomasherpa.github.io
   branch: master
- site_domain: https://pembadoma.netlify.com
+  site_domain: https://pembadoma.netlify.com
   
 
 media_folder: "images/uploads"
